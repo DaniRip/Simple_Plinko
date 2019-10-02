@@ -1,0 +1,2 @@
+# Simple_Plinko
+The following is an R code, meant to simulate the outcomes of a game of Plinko (a game of chance created for The Price is Right gameshow in the 80's). It uses basic R plotting tools for visualization, and allows users to input multiple entry points, or a single entry point in each go. The board defaults are the same as The Price is Right board (to my knowledge) but other configurations may be given as input.
